@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    text-align: center;
+   
+}
+#add{
+    height: 27px;
+    width: 30px;
+    margin-left: 0;
+    border-radius: 10%;
+    border: 2px solid black;
+    border-left: 0;
+    
+}
+h1 {
+    text-transform: uppercase;
+}
+#input {
+    margin-left: 0;
+    border-radius: 0;
+    height: 21px;
+    border: 2px solid black;
+}
+.container {
+    display: flex;
+    margin-left: 579px;
+
+}
